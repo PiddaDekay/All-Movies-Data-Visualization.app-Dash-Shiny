@@ -8,15 +8,16 @@ Make a dashboard that has widgets (in a sidebar panel, or other layout) to choos
 
 In the display (main panel) area:
 
-* A tabbed (layered multi-pane) display of two graphs.
-Rating10 tab:
+A tabbed (layered multi-pane) display of two graphs.
 
-1. x-axis:  user review ratings, using the 10-pt Rating10
+* Rating10 tab:
 
-2. y-axis:  box office revenue, using BoxOffice
+ 1. x-axis:  user review ratings, using the 10-pt Rating10
 
-Rotten tab:
+ 2. y-axis:  box office revenue, using BoxOffice
 
-1. x-axis:  user review ratings, using the Rotten field (from Rotten Tomatoes)
+* Rotten tab:
 
-2. y-axis:  box office revenue, using BoxOffice
+ 1. x-axis:  user review ratings, using the Rotten field (from Rotten Tomatoes)
+
+ 2. y-axis:  box office revenue, using BoxOffice
